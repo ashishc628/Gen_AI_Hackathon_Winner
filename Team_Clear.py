@@ -29,7 +29,7 @@ import plotly.figure_factory as ff
 # Set your OpenAI API key
 os.environ['OPENAI_API_KEY'] = "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"
 
-st.image("/Users/ashishchaudhary/Desktop/teamclear/Brown Blue Denim Jeans Fashion Sale Website Banner.jpg", use_column_width=True)
+#st.image("/Users/ashishchaudhary/Desktop/teamclear/Brown Blue Denim Jeans Fashion Sale Website Banner.jpg", use_column_width=True)
 st.header('Voice Analysis')
 
 
