@@ -8,7 +8,6 @@ from langchain.memory import ConversationBufferMemory
 from langchain.utilities import WikipediaAPIWrapper
 import os
 import streamlit as st
-import sounddevice as sd
 import soundfile as sf
 import openai
 from langchain.chat_models import ChatOpenAI
