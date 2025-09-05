@@ -1,5 +1,9 @@
 # Clear - Mental Health & Brainwave Analysis
 
+<p align="center">
+  <img src="team_clear.png" alt="NL2SQL Workflow" width="600"/>
+</p>
+
 **Clear** is a Streamlit-based app that combines **behavioral psychology, speech analysis, facial emotion detection, and brainwave monitoring** to help users understand and improve their mental wellness.
 
 ---
@@ -59,3 +63,5 @@
 - Run the app with Streamlit:  
   ```bash
   streamlit run app.py
+  
+* pic credits: clearmind
